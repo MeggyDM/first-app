@@ -92,6 +92,10 @@ h1 {
     align-items: center;
 }
 
+.modal {
+    display: none;
+}
+
 .modal-image {
     width: 250px;
     height: auto;
